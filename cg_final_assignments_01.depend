@@ -1,0 +1,350 @@
+# depslib dependency file v1.0
+1428988915 source:e:\documents\orko\my_codes\cg_final_assignments_01\camera.cpp
+	"camera.h"
+
+1428990376 e:\documents\orko\my_codes\cg_final_assignments_01\camera.h
+	<iostream>
+	<cmath>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\gl\gl.h
+
+976645372 c:\users\orko\desktop\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winerror.h
+
+1341010376 c:\users\orko\desktop\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 c:\users\orko\desktop\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\winver.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\dde.h
+
+1301111150 c:\users\orko\desktop\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\users\orko\desktop\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\users\orko\desktop\codeblocks\mingw\include\imm.h
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcnterr.h
+
+1341010372 c:\users\orko\desktop\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\users\orko\desktop\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\users\orko\desktop\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\users\orko\desktop\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\users\orko\desktop\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\users\orko\desktop\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341010376 c:\users\orko\desktop\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\users\orko\desktop\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\users\orko\desktop\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\users\orko\desktop\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1429003589 source:e:\documents\orko\my_codes\cg_final_assignments_01\commontools.cpp
+	"CommonTools.h"
+
+1429003276 e:\documents\orko\my_codes\cg_final_assignments_01\commontools.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<dirent.h>
+
+1341010372 c:\users\orko\desktop\codeblocks\mingw\include\dirent.h
+	<_mingw.h>
+	<io.h>
+
+1341010374 c:\users\orko\desktop\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1341010380 c:\users\orko\desktop\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1429025920 source:e:\documents\orko\my_codes\cg_final_assignments_01\model.cpp
+	"model.h"
+
+1429016142 e:\documents\orko\my_codes\cg_final_assignments_01\model.h
+	"CommonTools.h"
+	"Texture.h"
+	"vertex.h"
+
+1426905477 e:\documents\orko\my_codes\cg_final_assignments_01\texture.h
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1429004442 e:\documents\orko\my_codes\cg_final_assignments_01\vertex.h
+
+1429016267 source:e:\documents\orko\my_codes\cg_final_assignments_01\skybox.cpp
+	"skybox.h"
+
+1429014844 e:\documents\orko\my_codes\cg_final_assignments_01\skybox.h
+	<iostream>
+	"model.h"
+
+1426909432 source:e:\documents\orko\my_codes\cg_final_assignments_01\texture.cpp
+	"Texture.h"
+
+1429004496 source:e:\documents\orko\my_codes\cg_final_assignments_01\vertex.cpp
+	"vertex.h"
+
+1429026068 source:e:\documents\orko\my_codes\cg_final_assignments_01\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"camera.h"
+	"model.h"
+	"skybox.h"
+
+1428988915 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\camera.cpp
+	"camera.h"
+
+1428990376 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\camera.h
+	<iostream>
+	<cmath>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1429003589 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\commontools.cpp
+	"CommonTools.h"
+
+1429003276 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\commontools.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<dirent.h>
+
+1429046324 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\model.cpp
+	"model.h"
+
+1429046211 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\model.h
+	"CommonTools.h"
+	"Texture.h"
+	"vertex.h"
+
+1426905477 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\texture.h
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1429004442 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\vertex.h
+
+1429028813 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\skybox.cpp
+	"skybox.h"
+
+1429014844 c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\skybox.h
+	<iostream>
+	"model.h"
+
+1426909432 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\texture.cpp
+	"Texture.h"
+
+1429004496 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\vertex.cpp
+	"vertex.h"
+
+1429064427 source:c:\users\zunayed hassan\codeblocks\cg_final_assignments_01\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"camera.h"
+	"model.h"
+	"skybox.h"
+
